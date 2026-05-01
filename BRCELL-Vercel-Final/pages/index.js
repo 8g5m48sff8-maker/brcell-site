@@ -1,1 +1,0 @@
-export default function Home(){const wa='https://wa.me/5547996874903';return <main style={{background:'#000',color:'#fff',minHeight:'100vh',padding:'40px',fontFamily:'Arial'}}><h1>BR CELL Assistência Técnica</h1><p>Site pronto para personalização premium.</p><a href={wa} style={{background:'#22c55e',padding:'12px 20px',borderRadius:'12px',color:'#fff'}}>WhatsApp</a></main>}
